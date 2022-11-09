@@ -1,4 +1,4 @@
-# Programmieraufgabe BnB-Algorithmus
+# BnB-Algorithmus visualisiert
 
 ## Programm ausführen
 Das Programm lässt sich mit Maven ausführen. Sollte das fehlschlagen, kann mittels einer IDE das Programm kompiliert und ausgeführt werden. Für die Entwicklung wurde IntelliJ verwendet.
